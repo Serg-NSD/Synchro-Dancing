@@ -9,8 +9,8 @@
 
 ## Contents
 [Contents](./README.md#Introduction)<br> 
-[Using](./README.md#Using)<br>
-[Operation package](./README.md#package)<br>
+[Using](./README.md#Сustomization)<br>
+[Operation package](./README.md#Operation)<br>
 [Additionally](./README.md#Additionally)<br>
 [Presentation file](./README.md#Presentation)<br>
 
@@ -25,13 +25,13 @@ At any time, you can pause the video, select, for example, the worst metric and 
 
 :arrow_up: [Contents](./README.md#Contents) 
 
-## Using
+## Сustomization
 1. Clone the repository.
 2. Copy the required video file to the `video` folder.
 3. In the script `main.py` set the required `PATH_DIR` and `NAME_FILE`.
 4. Launch `main.py`.
 
-## The operation of the software package
+## Operation
 1. The analysis of the video file is carried out, the number of dancers is determined by the first frame. If further, during the playback of the video, their number will change, then such frames are cut. 
 2. Frame-by-frame cosine similarity and weighted cosine similarity are calculated using affine transformation.
 3. The average value of the weighted cosine similarity for each dancer is added to the end of the video.
