@@ -31,11 +31,15 @@ At any time, you can pause the video, select, for example, the worst metric and 
 3. In the script `main.py` set the required `PATH_DIR` and `NAME_FILE`.
 4. Launch `main.py`.
 
+:arrow_up: [Contents](./README.md#Contents) 
+
 ## Operation
 1. The analysis of the video file is carried out, the number of dancers is determined by the first frame. If further, during the playback of the video, their number will change, then such frames are cut. 
 2. Frame-by-frame cosine similarity and weighted cosine similarity are calculated using affine transformation.
 3. The average value of the weighted cosine similarity for each dancer is added to the end of the video.
 4. The video is saved.
+
+:arrow_up: [Contents](./README.md#Contents) 
 
 ## Additionally
 The following files are located in the `examples` folder:
@@ -55,7 +59,8 @@ The following files are located in the `examples` folder:
   
 These files come as separate, independent project assignments. Each of them works independently of each other.
 
+:arrow_up: [Contents](./README.md#Contents) 
+
 ## Presentation
 The presentation file of this project is located [here "presentation.ppt"](https://disk.yandex.ru/i/7bRcYdttoJHVkw).  
-I recommend opening it in full-screen mode (reading mode).
-  
+I recommend opening it in full-screen mode (reading mode).  
