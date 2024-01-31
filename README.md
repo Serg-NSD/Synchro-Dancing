@@ -10,7 +10,7 @@
 ## Contents
 [Contents](./README.md#Contents)<br> 
 [Introduction](./README.md#Introduction)<br> 
-[Using](./README.md#Сustomization)<br>
+[Сustomization](./README.md#Сustomization)<br>
 [Operation package](./README.md#Operation)<br>
 [Additionally](./README.md#Additionally)<br>
 [Presentation file](./README.md#Presentation)<br>
