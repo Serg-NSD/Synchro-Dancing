@@ -2,11 +2,11 @@
   
 # The «Synchro Dancing» project
 --------------------
-<br>
 
 ![](video/5_danc.gif)
 </div>
 
+----------------------------
 ## Contents
 [Contents](./README.md#Contents)<br> 
 [Introduction](./README.md#Introduction)<br> 
