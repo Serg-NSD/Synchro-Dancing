@@ -64,4 +64,5 @@ These files come as separate, independent project assignments. Each of them work
 
 ## Presentation
 The presentation file of this project is located [here "presentation.ppt"](https://disk.yandex.ru/i/7bRcYdttoJHVkw).  
-I recommend opening it in full-screen mode (reading mode).  
+I highly recommend ***downloading the presentation file*** (!) and viewing it locally on your computer. At the same time, view it in full-screen format (reading mode).  
+Otherwise, you will not be able to view the videos in the presentation. 
