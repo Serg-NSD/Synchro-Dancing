@@ -1,6 +1,6 @@
 <div align='center'>
   
-# The «Synchro Dancing» project.
+# The «Synchro Dancing» project
 --------------------
 <br>
 
