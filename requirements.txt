@@ -1,0 +1,14 @@
+python                       3.10.7
+torch   		     1.12.1+cu113
+torchvision                  0.13.1+cu113
+opencv-python-headless       4.8.1.78
+numpy                        1.26.1
+matplotlib                   3.8.1
+tqdm                         4.66.1
+
+
+
+
+
+
+
