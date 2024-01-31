@@ -1,1 +1,1 @@
-<p align='center'>The «Synchro Dancing» project. </p>
+<div align='center'>The «Synchro Dancing» project. </div>
