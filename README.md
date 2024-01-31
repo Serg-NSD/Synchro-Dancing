@@ -46,5 +46,6 @@ The following files are located in the `examples` folder:
 These files come as separate, independent project assignments. Each of them works independently of each other.
 
 ## The presentation file.
-The presentation file of this project is located here "presentation.ppt ". I recommend opening it in full-screen mode (reading mode).
+The presentation file of this project is located [here "presentation.ppt"](https://disk.yandex.ru/i/7bRcYdttoJHVkw).  
+I recommend opening it in full-screen mode (reading mode).
   
